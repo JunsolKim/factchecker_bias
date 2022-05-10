@@ -1,0 +1,14 @@
+factcheck_url: URL of fact-checking articles
+factcheck_date: when was fact-checking article published?
+factcheck_organization: which organization published this fact-checking article?
+factcheck_author: who wrote this fact-checking article?
+claim_text: claim that was fact-checked by the article
+claim_author: who said the claim that was fact-checked by the article?
+claim_firstAppearnce_url: URL where the claim was posted for the first time
+claim_author_jobTitle: job of claim_author (if available)
+claim_context: context of the claim that was fact-checked by the article (e.g., when, where) (if available)
+reviewRating_binary: whether the claim was rated as true or false (binary)
+reviewRating_original: unstandardized rating
+reviewRating_ratingValue: continuous rating (if available)
+reviewRating_worst/bestRating: the lowest and the highest continuous rating (if available)
+claim_author_party: party affiliation of claim_author
